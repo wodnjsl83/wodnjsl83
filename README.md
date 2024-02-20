@@ -2,7 +2,7 @@
 
 
 ###  💎 SNS </br>
-  <img alt="Static Badge" src="https://img.shields.io/badge/velog-%2320C997?style=for-the-badge&link=https%3A%2F%2Fvelog.io%2F%40gyultang"/> <img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%236f0404&link=rnfl0318%40gmail.com"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/tistory-%2320C997?style=for-the-badge&link=https%3A%2F%2Fvelog.io%2F%40gyultang"/> <img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=%236f0404&link=rnfl0318%40gmail.com"/>
   
   </br>
   
