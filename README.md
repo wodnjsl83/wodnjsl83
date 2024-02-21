@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:d09aff,100:a3a9f0&height=300&section=header&text=Welcome%20to%20jaewonE%20GitHub&fontSize=40&animation=blink&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:d09aff,100:a3a9f0&height=300&section=header&text=Welcome%20to%20jaewon's%20GitHub&fontSize=40&animation=blink&fontColor=ffffff)
 
 
 ###  💎 SNS </br>
